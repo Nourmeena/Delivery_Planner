@@ -21,7 +21,7 @@ The project built with TS so their must be Node js 23 or later
 To run it:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Nourmeena/Delivery_Planner.git
 cd delivery_optimization/src
 npm install --save-dev @types/node
 npx ts-node index.ts
